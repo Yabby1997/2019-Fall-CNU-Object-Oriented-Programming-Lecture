@@ -32,3 +32,4 @@ char getch(){
         perror ("tcsetattr ~ICANON");
     return (buf);
 }
+
