@@ -1,5 +1,10 @@
 # Object-Oriented-Programming-Fall-2019
 
+## Description
++ Language : C++
++ Environment : Linux(Ubuntu 19.04), Vim
+
+## Contents
 + week02 : basic c++
 + week03 : understanding memory structure
 + week07 : implementing smart pointer concept, and practicing operator overloading 
